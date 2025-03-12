@@ -49,7 +49,7 @@ Tenho habilidades em comunicação verbal e escrita, busco sempre melhorar minha
 
 ### 📊 Estatísticas
 
-<p>
+
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -62,8 +62,6 @@ Tenho habilidades em comunicação verbal e escrita, busco sempre melhorar minha
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakelinykellyn&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakelinykellyn&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
 
-</p>
-  

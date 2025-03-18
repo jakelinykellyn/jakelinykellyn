@@ -2,9 +2,9 @@
 
 **`Desenvolvedora de Sistemas`**
 
-Sou estudante de Desenvolvimento de Sistemas no IFB, onde estou me aprofundando em tecnologias como JavaScript, HTML, CSS e Git. Gosto de aplicar meus conhecimentos na criação de soluções criativas e funcionais para a web. Além da programação, sou apaixonada por esportes radicais, o que me ajuda a encarar desafios com foco e perseverança.
+Olá, sou Jakeliny, graduanda em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Brasília (IFB), em transição de carreira para a área de Desenvolvimento Web.
 
-Tenho habilidades em comunicação verbal e escrita, busco sempre melhorar minhas competências técnicas e pessoais. Estou muito empolgadaaa com minha jornada na área da tecnologia e ansiosa para colocar em prática tudo o que estou aprendendo. Se você deseja trocar ideias ou colaborar em projetos, será um prazer conectar!
+Se você deseja trocar idéias ou colaborar em projetos, será um prazer conectar!
 
 ---
 

@@ -1,4 +1,4 @@
-# 👩‍💻 Jakeliny Kellyn
+# 👩‍💻 Jakeliny Moura
 
 **`Desenvolvedora de Sistemas`**
 

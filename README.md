@@ -7,7 +7,14 @@ Olá, sou Jakeliny, graduanda em Análise e Desenvolvimento de Sistemas pelo Ins
 Se você deseja trocar idéias ou colaborar em projetos, será um prazer conectar!
 
 ---
+### Conecte-se Comigo!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakelinykellyn)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jakelinykellyn@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@jakelinykellyn/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/++5561995181618)
 
+
+---
 ### 🤖 Linguagens e Tecnologias
 
 <img 
